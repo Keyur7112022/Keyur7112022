@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-<img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br>
-🔭 I’m currently working on MNV-HR Managment<br><br>🌱 I’m currently learning Express.js<br><br>👨‍💻 All of my projects are available at https://github.com/Keyur7112022<br><br>📫 How to reach me keyurnjaswal@gmail.com
+<img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🔭 I’m currently working on MNV-HR Managment<br><br>🌱 I’m currently learning Express.js<br><br>👨‍💻 All of my projects are available at https://github.com/Keyur7112022<br><br>📫 How to reach me keyurnjaswal@gmail.com<br><br>
 
 
 
