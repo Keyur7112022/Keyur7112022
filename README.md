@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keyur7112022&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keyur7112022&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![]()
 
 ## Goals
 • 👨‍💻 Improve my skills in JavaScript.<br><br> • 👨‍💻 Learn more about React and Node.js.<br><br>• 👨‍💻 Create my own portfolio website.<br>
