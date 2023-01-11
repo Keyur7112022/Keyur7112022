@@ -20,6 +20,14 @@
 • 👨‍💻 Improve my skills in JavaScript.<br><br> • 👨‍💻 Learn more about React and Node.js.<br><br>• 👨‍💻 Create my own portfolio website.<br>
 
 ## 📫 Connect with me
+<div align = "center">
+  
+[![Gmail: Keyur Jayswal](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:keyurnjaswal@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
+
+<!-- [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/melvinaguilar)](https://linktr.ee/melvinaguilar)&nbsp;
+[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/melvin-aguilar-dev)
+ -->
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=keyur7112022&icon=0&color=0)](https://visitcount.itsvg.in)
